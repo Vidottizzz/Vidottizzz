@@ -1,6 +1,6 @@
 ### Hi there, I am Guilherme Fernandes Vidotti 👋
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Firebase/Firestore...
 
  <div>
   <a href="https://github.com/Vidottizzz">
