@@ -1,6 +1,6 @@
 ### Hi there, I am Guilherme Fernandes Vidotti 👋
 
-- 🌱 I’m currently learning JavaScript, JQuery, Firebase/Firestore, Node.js, React, Bootstrap.
+- 🌱 I’m currently learning JavaScript, Node.js, React, Bootstrap.
  <div>
   <a href="https://github.com/Vidottizzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidottizzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
